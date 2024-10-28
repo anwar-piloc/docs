@@ -553,6 +553,7 @@ module.exports = {
             "partnership/document-center/company-registration/spain",
           ],
         },
+        "partnership/document-center/proof-address/index",
       ],
     },
     {
