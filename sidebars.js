@@ -554,6 +554,7 @@ module.exports = {
           ],
         },
         "partnership/document-center/proof-address/index",
+        "partnership/document-center/identity/index",
       ],
     },
     {
